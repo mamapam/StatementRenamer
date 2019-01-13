@@ -20,4 +20,4 @@ pathToFiles = r"path/to/directory"
 Run the script.
 ```
 python3 StatementRenamer.py
-
+```
